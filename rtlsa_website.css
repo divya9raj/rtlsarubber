@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+<!--
+.form-labels {
+	font-family: "Segoe UI Light";
+	font-size: 20px;
+	font-weight: normal;
+	color: #000000;
+}
+.content {
+	font-family: "Segoe UI Light";
+	font-size: 20px;
+	font-weight: normal;
+	color: #000000;
+}
+.page_title {
+	font-family: "Segoe UI Light";
+	font-size: 26px;
+	font-style: normal;
+	font-weight: bold;
+	color: #660099;
+}
+.dividers {
+	font-family: "Segoe Script";
+	font-size: 12px;
+	font-weight: normal;
+	color: #CCCCCC;
+}
+.textbox {
+	font-family: "Segoe UI Light";
+	font-size: 18px;
+	font-weight: normal;
+	color: #000000;
+}
+.buttons {
+	font-family: "Segoe UI Light";
+	font-size: 20px;
+	font-weight: normal;
+	color: #000033;
+}
+.page-links {
+	font-family: "Segoe UI Light";
+	font-size: 20px;
+	font-weight: normal;
+	color: #0000FF;
+	text-decoration: underline;
+}
+.table-titles {
+	font-family: "Segoe UI Light";
+	font-size: 18px;
+	font-weight: normal;
+}
+.error-messages {
+	font-family: "Segoe UI Light";
+	font-size: 20px;
+	font-weight: normal;
+	color: #FF2828;
+}
+body {
+	background-image: url(IMAGES/Simple_Wallpaper_by_maniaco.jpg);
+	background-repeat: repeat;
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+</head>
